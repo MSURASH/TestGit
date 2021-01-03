@@ -3,7 +3,7 @@ package com.java;
 public class FirstCode {
 
 	public static void main(String[] args) {
-		System.out.println("Git Pushed");
+		System.out.println("Git Pushing");
 	}
 
 }
